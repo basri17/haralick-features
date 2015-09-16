@@ -1,0 +1,1 @@
+Aplikasi Deteksi Fitur-fitur dasar menggunakan Haralick / GLCM
